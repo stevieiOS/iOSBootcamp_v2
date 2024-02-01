@@ -71,4 +71,4 @@ Tnree
 q) The Grid Item Array defines the _______________ of the Grid.
 
 Location and Size
->>>>>>> Homework-5
+
